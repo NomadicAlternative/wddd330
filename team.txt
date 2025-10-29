@@ -1,4 +1,4 @@
-=============================Diego A. García=============================
+=============================Diego A. García =============================
 link to netlify deployment:
 🌐 **Live Demo:**  https://comfy-kashata-63b2dd.netlify.app
 
