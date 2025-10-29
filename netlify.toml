@@ -1,6 +1,9 @@
 [build]
-  publish = "src"
-  command = "echo 'No build step needed for static files'"
+  publish = "dist"
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "18"
 
 [[redirects]]
   from = "/*"
